@@ -1,14 +1,12 @@
-# Exam Guide
+# Exam Guide - 2023
+
+## Design and implement data storage (15–20%)
+    
 
 <details>
-    <summary>
-        Design and implement data storage (15–20%)
-    </summary>
-
-<details>
-    <summary>
-        Implement a partition strategy
-    </summary>
+<summary>
+    Implement a partition strategy
+</summary>
 
 * Implement a partition strategy for files
 * Implement a partition strategy for analytical workloads
@@ -20,30 +18,48 @@
 
 
 <details>
-    <summary>
-        Design and implement the data exploration layer
-    </summary>
+<summary>
+    Design and implement the data exploration layer
+</summary>
 
 * Create and execute queries by using a compute solution that leverages SQL serverless and Spark
-cluster
+
+</details>
+
+<details>
+<summary>
+    cluster
+</summary>
+
 * Implement Azure Synapse Analytics database templates
 * Recommend Azure Synapse Analytics database templates
 * Push new or updated data lineage to Microsoft Purview
 * Browse and search metadata in Microsoft Purview Data Catalog
-    </details>
+
 </details>
 
 
+<br>
+
+## Develop data processing (40–45%)
 
 <details>
-    <summary>
-Develop data processing (40–45%)
+<summary>
+    Ingest and transform data
 </summary>
-Ingest and transform data
+
 * Design and implement incremental loads
 * Transform data by using Apache Spark
 * Transform data by using Transact-SQL (T-SQL)
-* Ingest and transform data by using Azure Synapse Pipelines or Azure Data Factory
+* Ingest and transform data by using Azure Synapse Pipelines or Azure Data 
+
+</details>
+
+<details>
+<summary>
+    Factory
+</summary>
+
 * Transform data by using Azure Stream Analytics
 * Cleanse data
 * Handle duplicate data
@@ -55,9 +71,22 @@ Ingest and transform data
 * Configure error handling for a transformation
 * Normalize and denormalize values
 * Perform data exploratory analysis
-Develop a batch processing solution
+
+</details>
+
+<details>
+<summary>
+    Develop a batch processing solution
+</summary>
+
 * Develop batch processing solutions by using Azure Data Lake Storage, Azure Databricks, Azure
-Synapse Analytics, and Azure Data Factory
+</details>
+
+<details>
+<summary>
+    Synapse Analytics, and Azure Data Factory
+</summary>
+
 * Use PolyBase to load data to a SQL pool
 * Implement Azure Synapse Link and query the replicated data
 * Create data pipelines
@@ -70,7 +99,14 @@ Synapse Analytics, and Azure Data Factory
 * Configure exception handling
 * Configure batch retention
 * Read from and write to a delta lake
-Develop a stream processing solution
+
+</details>
+
+<details>
+<summary>
+    Develop a stream processing solution
+</summary>
+
 * Create a stream processing solution by using Stream Analytics and Azure Event Hubs
 * Process data by using Spark structured streaming
 * Create windowed aggregates
@@ -86,7 +122,14 @@ Develop a stream processing solution
 * Configure exception handling
 * Upsert data
 * Replay archived stream data
-Manage batches and pipelines
+
+</details>
+
+<details>
+<summary>
+    Manage batches and pipelines
+</summary>
+
 * Trigger batches
 * Handle failed batch loads
 * Validate batch loads
@@ -94,16 +137,18 @@ Manage batches and pipelines
 * Schedule data pipelines in Data Factory or Azure Synapse Pipelines
 * Implement version control for pipeline artifacts
 * Manage Spark jobs in a pipeline
+
 </details>
 
+<br>
+
+## Secure, monitor, and optimize data storage and data processing (30–35%)
 
 <details>
-    <summary>
-Secure, monitor, and optimize data storage and data processing (30–
-35%)
+<summary>
+    Implement data security
 </summary>
 
-Implement data security
 * Implement data masking
 * Encrypt data at rest and in motion
 * Implement row-level and column-level security
@@ -115,7 +160,14 @@ Implement data security
 * Load a DataFrame with sensitive information
 * Write encrypted data to tables or Parquet files
 * Manage sensitive information
-Monitor data storage and data processing
+
+</details>
+
+<details>
+<summary>
+    Monitor data storage and data processing
+</summary>
+
 * Implement logging used by Azure Monitor
 * Configure monitoring services
 * Monitor stream processing
@@ -126,7 +178,14 @@ Monitor data storage and data processing
 * Schedule and monitor pipeline tests
 * Interpret Azure Monitor metrics and logs
 * Implement a pipeline alert strategy
-Optimize and troubleshoot data storage and data processing
+
+</details>
+
+<details>
+<summary>
+    Optimize and troubleshoot data storage and data processing
+</summary>
+
 * Compact small files
 * Handle skew in data
 * Handle data spill
@@ -135,10 +194,10 @@ Optimize and troubleshoot data storage and data processing
 * Tune queries by using cache
 * Troubleshoot a failed Spark job
 * Troubleshoot a failed pipeline run, including activities executed in external services
-</details>
+
 
 <br>
 
 # References
 
-1. [Exam reference](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT?WT.mc_id=Azure_BoM-wwl)
+1. [Exam reference - 2023](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT?WT.mc_id=Azure_BoM-wwl)
