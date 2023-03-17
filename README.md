@@ -1,4 +1,4 @@
-# Exam Guide - 2023
+# Exam Guide - 2023 - DP-203
 
 ## Design and implement data storage (15–20%)
     
@@ -206,5 +206,6 @@
 1. [Exam details](https://learn.microsoft.com/en-us/certifications/exams/dp-203/)
 1. [Course DP-203T00: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/training/courses/dp-203t00?WT.mc_id=Azure_BoM-wwl)
 1. [The journey to Microsoft Certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ)
+1. [Azure Free Sandbox - Azure Function App](https://learn.microsoft.com/en-us/training/modules/execute-azure-function-with-triggers/4-create-timer-trigger?pivots=csharp)
 
 
