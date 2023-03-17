@@ -195,9 +195,16 @@
 * Troubleshoot a failed Spark job
 * Troubleshoot a failed pipeline run, including activities executed in external services
 
+</details>
+
 
 <br>
 
 # References
 
 1. [Exam reference - 2023](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT?WT.mc_id=Azure_BoM-wwl)
+1. [Exam details](https://learn.microsoft.com/en-us/certifications/exams/dp-203/)
+1. [Course DP-203T00: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/training/courses/dp-203t00?WT.mc_id=Azure_BoM-wwl)
+1. [The journey to Microsoft Certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ)
+
+
