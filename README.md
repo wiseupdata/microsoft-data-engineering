@@ -83,7 +83,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Factory
+Factory :arrow_down:
 </summary>
 
 * Transform data by using Azure Stream Analytics
@@ -102,7 +102,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Develop a batch processing solution
+    Develop a batch processing solution :arrow_down:
 </summary>
 
 * Develop batch processing solutions by using Azure Data Lake Storage, Azure Databricks, Azure
@@ -110,7 +110,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Synapse Analytics, and Azure Data Factory
+    Synapse Analytics, and Azure Data Factory :arrow_down:
 </summary>
 
 * Use PolyBase to load data to a SQL pool
@@ -130,7 +130,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Develop a stream processing solution
+    Develop a stream processing solution :arrow_down:
 </summary>
 
 * Create a stream processing solution by using Stream Analytics and Azure Event Hubs
@@ -153,7 +153,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Manage batches and pipelines
+    Manage batches and pipelines :arrow_down:
 </summary>
 
 * Trigger batches
@@ -172,7 +172,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Implement data security
+    Implement data security :arrow_down:
 </summary>
 
 * Implement data masking
@@ -191,7 +191,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Monitor data storage and data processing
+    Monitor data storage and data processing :arrow_down:
 </summary>
 
 * Implement logging used by Azure Monitor
@@ -209,7 +209,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Optimize and troubleshoot data storage and data processing
+    Optimize and troubleshoot data storage and data processing :arrow_down:
 </summary>
 
 * Compact small files
