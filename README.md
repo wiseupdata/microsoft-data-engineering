@@ -229,7 +229,7 @@ Factory
 <a name="#partition-strategy-for-files"></a> 
 ## Partition strategy for files
 
-<p align="right"><a href="#readme-top"> :up: back to top</a></p>
+<p align="right"><a href="#readme-top">back to top :up:</a></p>
 
 
 <br>
