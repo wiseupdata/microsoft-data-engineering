@@ -11,7 +11,10 @@
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.microsoft-data-engineering&left_color=green&right_color=black) 
+<br>
+
+![asdfasf](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.microsoft-data-engineering&left_color=green&right_color=black) 
+
 
 ![](https://img.shields.io/github/license/wiseupdata/microsoft-data-engineering?style=plastic)
 
