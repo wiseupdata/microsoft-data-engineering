@@ -1,4 +1,20 @@
+<a href="https://www.instagram.com//">
+  <img align="left" alt="Wise Up Data's Instagram" width="22px" src="assets/instagram.png" />   
+</a> 
+<a href="https://discord.gg/">
+  <img align="left" alt="wise Up Data's Discord" width="22px" src="assets/discord.svg" />
+</a>
+<a href="https://twitter.com/">
+  <img align="left" alt="wise Up Data | Twitter" width="22px" src="assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/">
+  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="assets/linkedin.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.microsoft-data-engineering&left_color=green&right_color=black)
+
+
+<br />
 
 ---
 
@@ -212,4 +228,6 @@
 1. [The journey to Microsoft Certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ)
 1. [Azure Free Sandbox - Azure Function App](https://learn.microsoft.com/en-us/training/modules/execute-azure-function-with-triggers/4-create-timer-trigger?pivots=csharp)
 
+---
 
+<br>
