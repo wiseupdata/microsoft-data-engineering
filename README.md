@@ -29,7 +29,7 @@
 ## Design and implement data storage (15–20%)
     
 
-<details>
+<details> :arrow_forward:
 <summary>
     Implement a partition strategy
 </summary>
@@ -231,9 +231,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a href="./content/test.md">
- test
-</a>
 
 <br>
 
