@@ -31,7 +31,7 @@
 
 <details>
 <summary>
-Implement a partition strategy :arrow_down_small:
+Implement a partition strategy :arrow_down:
 </summary>
 
 * [Implement a partition strategy for files](#partition-strategy-for-files)
