@@ -226,6 +226,21 @@ Factory
 
 <br>
 
+## Tips :bulb:
+    
+<details>
+<summary>
+Storage 
+</summary>
+
+* Storage account
+
+
+</details>
+
+
+<br>
+
 <a name="#partition-strategy-for-files"></a> 
 ## Partition strategy for files
 
