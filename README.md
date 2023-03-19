@@ -235,10 +235,8 @@ Storage
 
 * Storage account
     * Types:
-        * <summary> Block Bobs </summary>
-            <details>
-                For files read from beginning to end.
-            </details>
+        * Block Bobs
+            * For files read from beginning to end.
         * Append blocks
         * Page Blocks
     * Premium
