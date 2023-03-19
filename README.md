@@ -234,6 +234,15 @@ Storage
 </summary>
 
 * Storage account
+    * Types:
+        * <summary> Block Bobs </summary>
+            <details>
+                For files read from beginning to end.
+            </details>
+        * Append blocks
+        * Page Blocks
+    * Premium
+        * Only available for block, file or page.
     * Redundance
         * The replicas are only read access and only available if a fail happens.
         * Types:
@@ -241,9 +250,9 @@ Storage
             * ZRS (Zone redundant storage)
             * GRS (Geo redundant storage)
             * GZRS (Geo Zone redundant storage)
-        * [Azure redundant - Microsoft community](https://techcommunity.microsoft.com/t5/azure-storage-blog/understanding-azure-storage-redundancy-offerings/ba-p/1431700){target="_blank"}  
-
-
+        * [Azure redundant - Microsoft community](https://techcommunity.microsoft.com/t5/azure-storage-blog/understanding-azure-storage-redundancy-offerings/ba-p/1431700)
+    * Blob (Binary Large Objects)
+        * 
 </details>
 
 
