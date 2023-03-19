@@ -14,6 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.microsoft-data-engineering&left_color=green&right_color=black) 
 ![](https://img.shields.io/github/license/wiseupdata/microsoft-data-engineering?style=plastic)
 
+
 <h1>
 <img align="left" alt="DP-203" src="assets/badge-dp-203.png" width="100" />
 
