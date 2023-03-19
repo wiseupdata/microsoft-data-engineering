@@ -13,9 +13,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.microsoft-data-engineering&left_color=green&right_color=black)
 
-
-<br />
-
 ---
 
 # Exam Guide - 2023 - DP-203
