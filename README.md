@@ -16,6 +16,8 @@
 
 ---
 
+<a name="#readme-top"></a>
+
 
 <h1>
 <img align="left" alt="DP-203" src="assets/badge-dp-203.png" width="100" />
@@ -228,7 +230,7 @@
 <a name="#partition-strategy-for-files"></a> 
 ## Partition strategy for files
 
- 
+[back to top](#readme-top)
 
 
 
