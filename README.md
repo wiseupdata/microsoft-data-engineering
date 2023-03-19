@@ -31,7 +31,7 @@
 
 <details> :arrow_forward:
 <summary>
-    Implement a partition strategy
+    :arrow_forward: Implement a partition strategy
 </summary>
 
 * [Implement a partition strategy for files](#partition-strategy-for-files)
