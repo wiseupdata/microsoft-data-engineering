@@ -45,7 +45,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Design and implement the data exploration layer
+    Design and implement the data exploration layer :arrow_down:
 </summary>
 
 * Create and execute queries by using a compute solution that leverages SQL serverless and Spark
@@ -54,7 +54,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    cluster
+    cluster :arrow_down:
 </summary>
 
 * Implement Azure Synapse Analytics database templates
@@ -71,7 +71,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Ingest and transform data
+    Ingest and transform data :arrow_down:
 </summary>
 
 * Design and implement incremental loads
