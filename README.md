@@ -31,7 +31,7 @@
 
 <details>
 <summary>
-Implement a partition strategy :arrow_down:
+Implement a partition strategy 
 </summary>
 
 * [Implement a partition strategy for files](#partition-strategy-for-files)
@@ -45,7 +45,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Design and implement the data exploration layer :arrow_down:
+    Design and implement the data exploration layer 
 </summary>
 
 * Create and execute queries by using a compute solution that leverages SQL serverless and Spark
@@ -54,7 +54,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    cluster :arrow_down:
+    cluster 
 </summary>
 
 * Implement Azure Synapse Analytics database templates
@@ -71,7 +71,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-    Ingest and transform data :arrow_down:
+    Ingest and transform data 
 </summary>
 
 * Design and implement incremental loads
@@ -83,7 +83,7 @@ Implement a partition strategy :arrow_down:
 
 <details>
 <summary>
-Factory :arrow_down:
+Factory 
 </summary>
 
 * Transform data by using Azure Stream Analytics
@@ -102,7 +102,7 @@ Factory :arrow_down:
 
 <details>
 <summary>
-    Develop a batch processing solution :arrow_down:
+    Develop a batch processing solution 
 </summary>
 
 * Develop batch processing solutions by using Azure Data Lake Storage, Azure Databricks, Azure
@@ -110,7 +110,7 @@ Factory :arrow_down:
 
 <details>
 <summary>
-    Synapse Analytics, and Azure Data Factory :arrow_down:
+    Synapse Analytics, and Azure Data Factory 
 </summary>
 
 * Use PolyBase to load data to a SQL pool
@@ -130,7 +130,7 @@ Factory :arrow_down:
 
 <details>
 <summary>
-    Develop a stream processing solution :arrow_down:
+    Develop a stream processing solution 
 </summary>
 
 * Create a stream processing solution by using Stream Analytics and Azure Event Hubs
@@ -153,7 +153,7 @@ Factory :arrow_down:
 
 <details>
 <summary>
-    Manage batches and pipelines :arrow_down:
+    Manage batches and pipelines 
 </summary>
 
 * Trigger batches
@@ -172,7 +172,7 @@ Factory :arrow_down:
 
 <details>
 <summary>
-    Implement data security :arrow_down:
+    Implement data security 
 </summary>
 
 * Implement data masking
@@ -191,7 +191,7 @@ Factory :arrow_down:
 
 <details>
 <summary>
-    Monitor data storage and data processing :arrow_down:
+    Monitor data storage and data processing 
 </summary>
 
 * Implement logging used by Azure Monitor
@@ -209,7 +209,7 @@ Factory :arrow_down:
 
 <details>
 <summary>
-    Optimize and troubleshoot data storage and data processing :arrow_down:
+    Optimize and troubleshoot data storage and data processing 
 </summary>
 
 * Compact small files
