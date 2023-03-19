@@ -234,6 +234,14 @@ Storage
 </summary>
 
 * Storage account
+    * Redundance
+        * The replicas are only read access and only available if a fail happens.
+        * Types:
+            * LRS (Local redundant storage)
+            * ZRS (Zone redundant storage)
+            * GRS (Geo redundant storage)
+            * GZRS (Geo Zone redundant storage)
+        * [Azure redundant - Microsoft community](https://techcommunity.microsoft.com/t5/azure-storage-blog/understanding-azure-storage-redundancy-offerings/ba-p/1431700)  
 
 
 </details>
