@@ -241,7 +241,8 @@ Storage
             * ZRS (Zone redundant storage)
             * GRS (Geo redundant storage)
             * GZRS (Geo Zone redundant storage)
-        * [Azure redundant - Microsoft community](https://techcommunity.microsoft.com/t5/azure-storage-blog/understanding-azure-storage-redundancy-offerings/ba-p/1431700){:target="_blank" rel="noopener"}  
+        * [Azure redundant - Microsoft community](https://techcommunity.microsoft.com/t5/azure-storage-blog/understanding-azure-storage-redundancy-offerings/ba-p/1431700){:target="_blank" rel="noopener"}
+        * [Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}  
 
 
 </details>
