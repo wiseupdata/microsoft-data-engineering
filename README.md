@@ -16,7 +16,7 @@
 
 ---
 
-<h1>
+<br>
 
 <img align="left" alt="DP-203" src="assets/badge-dp-203.png" width="100" />
 
@@ -26,6 +26,9 @@
 
 
 <br>
+
+---
+
 
 ## Design and implement data storage (15–20%)
     
