@@ -21,7 +21,7 @@
 <h1>
 <img align="left" alt="DP-203" src="assets/badge-dp-203.png" width="100" />
 
-# Exam Guide - 2023 - DP-203
+# DP-203 - Exam Guide - 2023
 </h1>
 
 <br>
