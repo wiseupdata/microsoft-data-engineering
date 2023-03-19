@@ -29,9 +29,9 @@
 ## Design and implement data storage (15–20%)
     
 
-<details> :arrow_forward:
+<details>
 <summary>
-    :arrow_forward: Implement a partition strategy
+Implement a partition strategy :arrow_down_small:
 </summary>
 
 * [Implement a partition strategy for files](#partition-strategy-for-files)
