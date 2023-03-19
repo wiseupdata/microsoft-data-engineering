@@ -1,3 +1,7 @@
+![](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.microsoft-data-engineering)
+
+---
+
 # Exam Guide - 2023 - DP-203
 
 ## Design and implement data storage (15–20%)
