@@ -33,7 +33,7 @@
     Implement a partition strategy
 </summary>
 
-* Implement a partition strategy for files
+* [Implement a partition strategy for files](#partition-strategy-for-files)
 * Implement a partition strategy for analytical workloads
 * Implement a partition strategy for streaming workloads
 * Implement a partition strategy for Azure Synapse Analytics
@@ -221,6 +221,15 @@
 * Troubleshoot a failed pipeline run, including activities executed in external services
 
 </details>
+
+
+<br>
+
+<a name="#partition-strategy-for-files"></a> 
+## Partition strategy for files
+
+ 
+
 
 
 <br>
