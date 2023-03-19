@@ -16,16 +16,9 @@
 
 ---
 
-<br>
-
 <img align="left" alt="DP-203" src="assets/badge-dp-203.png" width="100" />
 
 # Exam Guide - 2023 - DP-203
-
-</h1>
-
-
-<br>
 
 ---
 
